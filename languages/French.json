@@ -2,5 +2,18 @@
   "1": "Créer un point de restauration",
   "2": "Restaurations",
   "3": "Paramètres",
-  "4": "Sortir"
+  "4": "Sortir",
+  "1description": "Crée un point de restauration.",
+  "2description": "Voir les restaurations.",
+  "3description": "Les paramètres de System Restore.",
+  "4description": "Sort du raccourci.",
+  "5": "Retour",
+  "6": "Commencement",
+  "dont_stop": "Veuillez ne pas stopper le raccourci!",
+  "7": "Qu'est ce que vous voulez faire avec",
+  "8": "Appliquer",
+  "9": "Supprimer",
+  "10": "Annuler",
+  "11": "Succès",
+  "12": "La restauration est faite."
 }
