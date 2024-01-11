@@ -1,0 +1,19 @@
+{
+  "1": "Create a restore point",
+  "2": "Restorations",
+  "3": "Settings",
+  "4": "Exit",
+  "1description": "Creates a restore point.",
+  "2description": "View the restorations.",
+  "3description": "System Restore settings.",
+  "4description": "Exit the shortcut.",
+  "5": "Back",
+  "6": "Start",
+  "dont_stop": "Please do not stop the shortcut!",
+  "7": "What do you want to do with",
+  "8": "Apply",
+  "9": "Delete",
+  "10": "Cancel",
+  "11": "Success",
+  "12": "The restoration is complete."
+}
