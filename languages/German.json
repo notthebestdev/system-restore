@@ -1,0 +1,19 @@
+{
+  "1": "Wiederherstellungspunkt erstellen",
+  "2": "Wiederherstellungen",
+  "3": "Einstellungen",
+  "4": "Beenden",
+  "1description": "Erstellt einen Wiederherstellungspunkt.",
+  "2description": "Wiederherstellungen anzeigen.",
+  "3description": "Einstellungen für die Systemwiederherstellung.",
+  "4description": "Beenden des Verknüpfung.",
+  "5": "Zurück",
+  "6": "Start",
+  "dont_stop": "Bitte den Verknüpfung nicht beenden!",
+  "7": "Was möchtest du mit",
+  "8": "Anwenden",
+  "9": "Löschen",
+  "10": "Abbrechen",
+  "11": "Erfolg",
+  "12": "Die Wiederherstellung ist abgeschlossen."
+}
