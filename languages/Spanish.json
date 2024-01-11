@@ -1,0 +1,19 @@
+{
+  "1": "Crear un punto de restauración",
+  "2": "Restauraciones",
+  "3": "Configuraciones",
+  "4": "Salir",
+  "1description": "Crea un punto de restauración.",
+  "2description": "Ver las restauraciones.",
+  "3description": "Configuraciones de Restauración del Sistema.",
+  "4description": "Salir del acceso directo.",
+  "5": "Volver",
+  "6": "Inicio",
+  "dont_stop": "¡Por favor, no detener el acceso directo!",
+  "7": "¿Qué quieres hacer con",
+  "8": "Aplicar",
+  "9": "Eliminar",
+  "10": "Cancelar",
+  "11": "Éxito",
+  "12": "La restauración está completa."
+}
