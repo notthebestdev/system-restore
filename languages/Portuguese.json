@@ -1,0 +1,19 @@
+{
+  "1": "Criar um",
+  "2": "Restaurações",
+  "3": "Configurações",
+  "4": "Sair",
+  "1description": "Cria um ponto de restauração.",
+  "2description": "Ver as restaurações.",
+  "3description": "Configurações de Restauração do Sistema.",
+  "4description": "Sair do atalho.",
+  "5": "Voltar",
+  "6": "Iniciar",
+  "dont_stop": "Por favor, não pare o atalho!",
+  "7": "O que você quer fazer com",
+  "8": "Aplicar",
+  "9": "Excluir",
+  "10": "Cancelar",
+  "11": "Sucesso",
+  "12": "A restauração está completa."
+}
